@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 - Студент: [Ризван Джамалудинов](https://up.htmlacademy.ru/htmlcss/30/user/1598989).
-- Наставник: `Алексей Пудников` (https://htmlacademy.ru/profile/id71418).
+- Наставник: [Алексей Пудников](https://htmlacademy.ru/profile/id71418).
 
 ---
 
